@@ -1,4 +1,4 @@
-##Here are some advantages of Quick Sort:  
+## Here are some advantages of Quick Sort:  
 	-Fast and efficient  
 	-Space complexity (in-place sorting)  
 	-Efficient for large datasets  
