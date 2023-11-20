@@ -14,11 +14,11 @@
 	
 ### Here are some sorting algorithms:  
 	-Bubble sort: Compares elements to bubble up the maximum to the end.  
-	-Selection sort: Compares elements to find the minimum element in the unsorted part and places that 				element in the sorted part.  
-	-Insertion sort: Compares elements to determine the position of an element in the partially sorted 				   array.  
+	-Selection sort: Compares elements to find the minimum element in the unsorted part and places that element in the sorted part.  
+	-Insertion sort: Compares elements to determine the position of an element in the partially sorted array.  
 	-Merge sort: Compares elements of two sorted halves to merge them into the final sorted array.  
-	-Quick sort: Compares elements to partition the unsorted array into two different halves around the 			pivot.  
-	-Heapsort: Compares elements during the heapify process to place the elements at the correct position 			in the sorted array.  
+	-Quick sort: Compares elements to partition the unsorted array into two different halves around the pivot.  
+	-Heapsort: Compares elements during the heapify process to place the elements at the correct position in the sorted array.  
 	
 ### In addition to the comparison operations, these sorting algorithms use these methods to implement the sorting:  
 	-Bubble sort: Swapping  
